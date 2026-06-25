@@ -1,0 +1,454 @@
+{
+  "top_count": 20,
+  "irrelevant_count": 2,
+  "false_positive_rate": 0.1,
+  "candidate_diagnostics": [
+    {
+      "candidate_id": "CAND_0081846",
+      "rank": 1,
+      "current_title": "Lead AI Engineer",
+      "final_score": 0.7036,
+      "semantic_score": 0.1741,
+      "skill_score": 0.5113,
+      "experience_score": 1.0,
+      "behavior_score": 0.741,
+      "product_fit_score": 0.6456,
+      "title_score": 1.0,
+      "is_irrelevant": false,
+      "reasons": [
+        "Strong title relevance to the target AI/search role.",
+        "Domain keywords matched: ai, deep learning, learning to rank, rag, search.",
+        "AI/ML skill coverage is materially above average.",
+        "Product-fit terms suggest search, retrieval, ranking, or recommendation experience.",
+        "Behavioral signals are healthy enough to support the rank."
+      ],
+      "fix_suggestions": [
+        "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+      ]
+    },
+    {
+      "candidate_id": "CAND_0018499",
+      "rank": 2,
+      "current_title": "Senior Machine Learning Engineer",
+      "final_score": 0.6782,
+      "semantic_score": 0.1448,
+      "skill_score": 0.4116,
+      "experience_score": 1.0,
+      "behavior_score": 0.8345,
+      "product_fit_score": 0.6203,
+      "title_score": 1.0,
+      "is_irrelevant": false,
+      "reasons": [
+        "Strong title relevance to the target AI/search role.",
+        "Domain keywords matched: ai, deep learning, learning to rank, langchain, ml.",
+        "AI/ML skill coverage is materially above average.",
+        "Product-fit terms suggest search, retrieval, ranking, or recommendation experience.",
+        "Behavioral signals are healthy enough to support the rank."
+      ],
+      "fix_suggestions": [
+        "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+      ]
+    },
+    {
+      "candidate_id": "CAND_0077337",
+      "rank": 3,
+      "current_title": "Staff Machine Learning Engineer",
+      "final_score": 0.6674,
+      "semantic_score": 0.1246,
+      "skill_score": 0.4437,
+      "experience_score": 1.0,
+      "behavior_score": 0.7515,
+      "product_fit_score": 0.5696,
+      "title_score": 1.0,
+      "is_irrelevant": false,
+      "reasons": [
+        "Strong title relevance to the target AI/search role.",
+        "Domain keywords matched: ai, nlp, rag, search, recommendation.",
+        "AI/ML skill coverage is materially above average.",
+        "Product-fit terms suggest search, retrieval, ranking, or recommendation experience.",
+        "Behavioral signals are healthy enough to support the rank."
+      ],
+      "fix_suggestions": [
+        "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+      ]
+    },
+    {
+      "candidate_id": "CAND_0074735",
+      "rank": 4,
+      "current_title": "Applied ML Engineer",
+      "final_score": 0.6557,
+      "semantic_score": 0.0514,
+      "skill_score": 0.3923,
+      "experience_score": 1.0,
+      "behavior_score": 0.839,
+      "product_fit_score": 0.5766,
+      "title_score": 1.0,
+      "is_irrelevant": true,
+      "reasons": [
+        "Current title or history contains a clearly unrelated role for an AI Engineer search."
+      ],
+      "fix_suggestions": [
+        "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+      ]
+    },
+    {
+      "candidate_id": "CAND_0033861",
+      "rank": 5,
+      "current_title": "Senior NLP Engineer",
+      "final_score": 0.6486,
+      "semantic_score": 0.1779,
+      "skill_score": 0.3859,
+      "experience_score": 1.0,
+      "behavior_score": 0.503,
+      "product_fit_score": 0.6203,
+      "title_score": 1.0,
+      "is_irrelevant": false,
+      "reasons": [
+        "Strong title relevance to the target AI/search role.",
+        "Domain keywords matched: ai, learning to rank, nlp, ml, search.",
+        "AI/ML skill coverage is materially above average.",
+        "Product-fit terms suggest search, retrieval, ranking, or recommendation experience."
+      ],
+      "fix_suggestions": [
+        "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+      ]
+    },
+    {
+      "candidate_id": "CAND_0071974",
+      "rank": 6,
+      "current_title": "Senior AI Engineer",
+      "final_score": 0.6479,
+      "semantic_score": 0.1972,
+      "skill_score": 0.373,
+      "experience_score": 1.0,
+      "behavior_score": 0.8272,
+      "product_fit_score": 0.4937,
+      "title_score": 1.0,
+      "is_irrelevant": false,
+      "reasons": [
+        "Strong title relevance to the target AI/search role.",
+        "Domain keywords matched: ai, learning to rank, ml, rag, search.",
+        "AI/ML skill coverage is materially above average.",
+        "Product-fit terms suggest search, retrieval, ranking, or recommendation experience.",
+        "Behavioral signals are healthy enough to support the rank."
+      ],
+      "fix_suggestions": [
+        "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+      ]
+    },
+    {
+      "candidate_id": "CAND_0006557",
+      "rank": 7,
+      "current_title": "NLP Engineer",
+      "final_score": 0.6443,
+      "semantic_score": 0.0882,
+      "skill_score": 0.3987,
+      "experience_score": 1.0,
+      "behavior_score": 0.4268,
+      "product_fit_score": 0.6582,
+      "title_score": 1.0,
+      "is_irrelevant": false,
+      "reasons": [
+        "Strong title relevance to the target AI/search role.",
+        "Domain keywords matched: ai, langchain, nlp, search, recommendation.",
+        "AI/ML skill coverage is materially above average.",
+        "Product-fit terms suggest search, retrieval, ranking, or recommendation experience."
+      ],
+      "fix_suggestions": [
+        "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+      ]
+    },
+    {
+      "candidate_id": "CAND_0062247",
+      "rank": 8,
+      "current_title": "AI Engineer",
+      "final_score": 0.6443,
+      "semantic_score": 0.097,
+      "skill_score": 0.3344,
+      "experience_score": 1.0,
+      "behavior_score": 0.6798,
+      "product_fit_score": 0.6329,
+      "title_score": 1.0,
+      "is_irrelevant": false,
+      "reasons": [
+        "Strong title relevance to the target AI/search role.",
+        "Domain keywords matched: ai, deep learning, learning to rank, nlp, rag.",
+        "Product-fit terms suggest search, retrieval, ranking, or recommendation experience.",
+        "Behavioral signals are healthy enough to support the rank."
+      ],
+      "fix_suggestions": [
+        "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+      ]
+    },
+    {
+      "candidate_id": "CAND_0008425",
+      "rank": 9,
+      "current_title": "Senior NLP Engineer",
+      "final_score": 0.6399,
+      "semantic_score": 0.1916,
+      "skill_score": 0.4051,
+      "experience_score": 1.0,
+      "behavior_score": 0.6338,
+      "product_fit_score": 0.4937,
+      "title_score": 1.0,
+      "is_irrelevant": false,
+      "reasons": [
+        "Strong title relevance to the target AI/search role.",
+        "Domain keywords matched: ai, learning to rank, nlp, ml, search.",
+        "AI/ML skill coverage is materially above average.",
+        "Product-fit terms suggest search, retrieval, ranking, or recommendation experience.",
+        "Behavioral signals are healthy enough to support the rank."
+      ],
+      "fix_suggestions": [
+        "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+      ]
+    },
+    {
+      "candidate_id": "CAND_0086022",
+      "rank": 10,
+      "current_title": "Senior Applied Scientist",
+      "final_score": 0.6305,
+      "semantic_score": 0.1897,
+      "skill_score": 0.4084,
+      "experience_score": 1.0,
+      "behavior_score": 0.6958,
+      "product_fit_score": 0.4937,
+      "title_score": 0.95,
+      "is_irrelevant": false,
+      "reasons": [
+        "Strong title relevance to the target AI/search role.",
+        "Domain keywords matched: ai, deep learning, langchain, nlp, ml.",
+        "AI/ML skill coverage is materially above average.",
+        "Product-fit terms suggest search, retrieval, ranking, or recommendation experience.",
+        "Behavioral signals are healthy enough to support the rank."
+      ],
+      "fix_suggestions": [
+        "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+      ]
+    },
+    {
+      "candidate_id": "CAND_0049538",
+      "rank": 11,
+      "current_title": "Applied ML Engineer",
+      "final_score": 0.6282,
+      "semantic_score": 0.0655,
+      "skill_score": 0.3955,
+      "experience_score": 1.0,
+      "behavior_score": 0.7067,
+      "product_fit_score": 0.481,
+      "title_score": 1.0,
+      "is_irrelevant": false,
+      "reasons": [
+        "Strong title relevance to the target AI/search role.",
+        "Domain keywords matched: ai, deep learning, learning to rank, ml, search.",
+        "AI/ML skill coverage is materially above average.",
+        "Product-fit terms suggest search, retrieval, ranking, or recommendation experience.",
+        "Behavioral signals are healthy enough to support the rank."
+      ],
+      "fix_suggestions": [
+        "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+      ]
+    },
+    {
+      "candidate_id": "CAND_0002025",
+      "rank": 12,
+      "current_title": "Senior AI Engineer",
+      "final_score": 0.6266,
+      "semantic_score": 0.1917,
+      "skill_score": 0.3537,
+      "experience_score": 1.0,
+      "behavior_score": 0.8493,
+      "product_fit_score": 0.4051,
+      "title_score": 1.0,
+      "is_irrelevant": false,
+      "reasons": [
+        "Strong title relevance to the target AI/search role.",
+        "Domain keywords matched: ai, deep learning, langchain, nlp, ml.",
+        "AI/ML skill coverage is materially above average.",
+        "Product-fit terms suggest search, retrieval, ranking, or recommendation experience.",
+        "Behavioral signals are healthy enough to support the rank."
+      ],
+      "fix_suggestions": [
+        "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+      ]
+    },
+    {
+      "candidate_id": "CAND_0066376",
+      "rank": 13,
+      "current_title": "Applied ML Engineer",
+      "final_score": 0.6222,
+      "semantic_score": 0.0985,
+      "skill_score": 0.4116,
+      "experience_score": 1.0,
+      "behavior_score": 0.477,
+      "product_fit_score": 0.5063,
+      "title_score": 1.0,
+      "is_irrelevant": false,
+      "reasons": [
+        "Strong title relevance to the target AI/search role.",
+        "Domain keywords matched: ai, deep learning, learning to rank, nlp, ml.",
+        "AI/ML skill coverage is materially above average.",
+        "Product-fit terms suggest search, retrieval, ranking, or recommendation experience."
+      ],
+      "fix_suggestions": [
+        "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+      ]
+    },
+    {
+      "candidate_id": "CAND_0041669",
+      "rank": 14,
+      "current_title": "Recommendation Systems Engineer",
+      "final_score": 0.6195,
+      "semantic_score": 0.0809,
+      "skill_score": 0.3023,
+      "experience_score": 1.0,
+      "behavior_score": 0.7585,
+      "product_fit_score": 0.5259,
+      "title_score": 1.0,
+      "is_irrelevant": true,
+      "reasons": [
+        "Current title or history contains a clearly unrelated role for an AI Engineer search."
+      ],
+      "fix_suggestions": [
+        "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+      ]
+    },
+    {
+      "candidate_id": "CAND_0046525",
+      "rank": 15,
+      "current_title": "Senior Machine Learning Engineer",
+      "final_score": 0.6183,
+      "semantic_score": 0.1723,
+      "skill_score": 0.3248,
+      "experience_score": 1.0,
+      "behavior_score": 0.6713,
+      "product_fit_score": 0.481,
+      "title_score": 1.0,
+      "is_irrelevant": false,
+      "reasons": [
+        "Strong title relevance to the target AI/search role.",
+        "Domain keywords matched: ai, langchain, nlp, rag, search.",
+        "Product-fit terms suggest search, retrieval, ranking, or recommendation experience.",
+        "Behavioral signals are healthy enough to support the rank."
+      ],
+      "fix_suggestions": [
+        "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+      ]
+    },
+    {
+      "candidate_id": "CAND_0094759",
+      "rank": 16,
+      "current_title": "Lead AI Engineer",
+      "final_score": 0.6169,
+      "semantic_score": 0.1354,
+      "skill_score": 0.3055,
+      "experience_score": 1.0,
+      "behavior_score": 0.6012,
+      "product_fit_score": 0.5443,
+      "title_score": 1.0,
+      "is_irrelevant": false,
+      "reasons": [
+        "Strong title relevance to the target AI/search role.",
+        "Domain keywords matched: ai, learning to rank, nlp, ml, rag.",
+        "Product-fit terms suggest search, retrieval, ranking, or recommendation experience.",
+        "Behavioral signals are healthy enough to support the rank."
+      ],
+      "fix_suggestions": [
+        "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+      ]
+    },
+    {
+      "candidate_id": "CAND_0011687",
+      "rank": 17,
+      "current_title": "Senior NLP Engineer",
+      "final_score": 0.616,
+      "semantic_score": 0.1831,
+      "skill_score": 0.2701,
+      "experience_score": 1.0,
+      "behavior_score": 0.768,
+      "product_fit_score": 0.4937,
+      "title_score": 1.0,
+      "is_irrelevant": false,
+      "reasons": [
+        "Strong title relevance to the target AI/search role.",
+        "Domain keywords matched: ai, langchain, nlp, ml, search.",
+        "Product-fit terms suggest search, retrieval, ranking, or recommendation experience.",
+        "Behavioral signals are healthy enough to support the rank."
+      ],
+      "fix_suggestions": [
+        "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+      ]
+    },
+    {
+      "candidate_id": "CAND_0030031",
+      "rank": 18,
+      "current_title": "AI Engineer",
+      "final_score": 0.6158,
+      "semantic_score": 0.1292,
+      "skill_score": 0.3055,
+      "experience_score": 1.0,
+      "behavior_score": 0.7215,
+      "product_fit_score": 0.4937,
+      "title_score": 1.0,
+      "is_irrelevant": false,
+      "reasons": [
+        "Strong title relevance to the target AI/search role.",
+        "Domain keywords matched: ai, nlp, ml, rag, search.",
+        "Product-fit terms suggest search, retrieval, ranking, or recommendation experience.",
+        "Behavioral signals are healthy enough to support the rank."
+      ],
+      "fix_suggestions": [
+        "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+      ]
+    },
+    {
+      "candidate_id": "CAND_0070398",
+      "rank": 19,
+      "current_title": "Machine Learning Engineer",
+      "final_score": 0.6143,
+      "semantic_score": 0.0698,
+      "skill_score": 0.3441,
+      "experience_score": 1.0,
+      "behavior_score": 0.5935,
+      "product_fit_score": 0.519,
+      "title_score": 1.0,
+      "is_irrelevant": false,
+      "reasons": [
+        "Strong title relevance to the target AI/search role.",
+        "Domain keywords matched: ai, learning to rank, ml, rag, search.",
+        "Product-fit terms suggest search, retrieval, ranking, or recommendation experience."
+      ],
+      "fix_suggestions": [
+        "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+      ]
+    },
+    {
+      "candidate_id": "CAND_0007460",
+      "rank": 20,
+      "current_title": "AI Engineer",
+      "final_score": 0.6141,
+      "semantic_score": 0.0637,
+      "skill_score": 0.3891,
+      "experience_score": 0.8,
+      "behavior_score": 0.6647,
+      "product_fit_score": 0.5063,
+      "title_score": 1.0,
+      "is_irrelevant": false,
+      "reasons": [
+        "Strong title relevance to the target AI/search role.",
+        "Domain keywords matched: ai, langchain, nlp, ml, rag.",
+        "AI/ML skill coverage is materially above average.",
+        "Product-fit terms suggest search, retrieval, ranking, or recommendation experience.",
+        "Behavioral signals are healthy enough to support the rank."
+      ],
+      "fix_suggestions": [
+        "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+      ]
+    }
+  ],
+  "suggested_fixes": [
+    "Increase the title score weight and harden reject titles because 2/20 top candidates are clearly irrelevant."
+  ],
+  "job_description_chars": 9564,
+  "total_ranked_candidates": 100000
+}

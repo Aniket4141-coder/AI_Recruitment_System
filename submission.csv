@@ -1,0 +1,101 @@
+candidate_id,rank,final_score,semantic_score,skill_score,behavior_score,experience_score,product_fit_score,title_score,reasoning
+CAND_0000031,1,0.633,0.450175404548645,0.375,0.6675,1.0,0.6,1.0,Recommendation Systems Engineer with 6.0 years experience; 17 skills listed; final score 0.633.
+CAND_0000001,2,0.4369,0.5475590825080872,0.0789,0.5028,1.0,0.1,0.6,Backend Engineer with 6.9 years experience; 17 skills listed; final score 0.4369.
+CAND_0000015,3,0.415,0.5439370274543762,0.0526,0.4585,1.0,0.0,0.6,Software Engineer with 5.4 years experience; 10 skills listed; final score 0.415.
+CAND_0000021,4,0.4143,0.6291705369949341,0.4211,0.4173,0.6,0.1,0.2,Project Manager with 14.5 years experience; 16 skills listed; final score 0.4143.
+CAND_0000023,5,0.4056,0.5761340856552124,0.0,0.6155,0.8,0.0,0.6,Software Engineer with 3.7 years experience; 10 skills listed; final score 0.4056.
+CAND_0000010,6,0.3911,0.5363287925720215,0.0197,0.5208,0.8,0.0,0.6,Data Engineer with 4.6 years experience; 17 skills listed; final score 0.3911.
+CAND_0000082,7,0.3819,0.5052635073661804,0.1842,0.5955,1.0,0.1,0.2,Data Analyst with 7.4 years experience; 11 skills listed; final score 0.3819.
+CAND_0000088,8,0.3552,0.5649778842926025,0.1447,0.3778,1.0,0.0,0.2,Java Developer with 7.6 years experience; 15 skills listed; final score 0.3552.
+CAND_0000063,9,0.3476,0.5652834177017212,0.0,0.663,1.0,0.0,0.2,Java Developer with 5.4 years experience; 14 skills listed; final score 0.3476.
+CAND_0000032,10,0.3463,0.5302362442016602,0.0724,0.456,1.0,0.1,0.2,.NET Developer with 8.1 years experience; 10 skills listed; final score 0.3463.
+CAND_0000014,11,0.3424,0.5599357485771179,0.0526,0.4923,1.0,0.0,0.2,Frontend Engineer with 8.4 years experience; 13 skills listed; final score 0.3424.
+CAND_0000038,12,0.3393,0.5760223865509033,0.0526,0.4215,1.0,0.0,0.2,Java Developer with 6.7 years experience; 11 skills listed; final score 0.3393.
+CAND_0000016,13,0.3381,0.550099790096283,0.0,0.6058,1.0,0.0,0.2,Accountant with 5.3 years experience; 8 skills listed; final score 0.3381.
+CAND_0000093,14,0.3363,0.5675251483917236,0.0,0.544,1.0,0.0,0.2,Civil Engineer with 8.2 years experience; 9 skills listed; final score 0.3363.
+CAND_0000027,15,0.3339,0.5355567336082458,0.1316,0.4715,0.8,0.0,0.2,DevOps Engineer with 3.9 years experience; 16 skills listed; final score 0.3339.
+CAND_0000075,16,0.3311,0.5583481788635254,0.0197,0.4663,1.0,0.0,0.2,Full Stack Developer with 5.2 years experience; 6 skills listed; final score 0.3311.
+CAND_0000035,17,0.3306,0.5704307556152344,0.1316,0.3505,0.8,0.0,0.2,Full Stack Developer with 4.3 years experience; 14 skills listed; final score 0.3306.
+CAND_0000025,18,0.3298,0.5444991588592529,0.0,0.5368,1.0,0.0,0.2,Frontend Engineer with 7.3 years experience; 9 skills listed; final score 0.3298.
+CAND_0000051,19,0.3275,0.5493159294128418,0.0,0.502,1.0,0.0,0.2,Cloud Engineer with 6.2 years experience; 10 skills listed; final score 0.3275.
+CAND_0000007,20,0.3271,0.5649696588516235,0.0,0.459,1.0,0.0,0.2,Civil Engineer with 5.5 years experience; 7 skills listed; final score 0.3271.
+CAND_0000062,21,0.327,0.5383552312850952,0.0,0.7243,0.8,0.0,0.2,DevOps Engineer with 4.3 years experience; 10 skills listed; final score 0.327.
+CAND_0000055,22,0.3267,0.5511729717254639,0.0,0.4888,1.0,0.0,0.2,Full Stack Developer with 7.3 years experience; 9 skills listed; final score 0.3267.
+CAND_0000029,23,0.3243,0.5752006769180298,0.0,0.405,1.0,0.0,0.2,Business Analyst with 7.2 years experience; 8 skills listed; final score 0.3243.
+CAND_0000044,24,0.3215,0.5370972156524658,0.0197,0.4227,1.0,0.0,0.2,Frontend Engineer with 5.7 years experience; 6 skills listed; final score 0.3215.
+CAND_0000060,25,0.3211,0.5454155206680298,0.0,0.447,1.0,0.0,0.2,Cloud Engineer with 8.0 years experience; 12 skills listed; final score 0.3211.
+CAND_0000072,26,0.3206,0.5578441619873047,0.0,0.411,1.0,0.0,0.2,Frontend Engineer with 7.0 years experience; 10 skills listed; final score 0.3206.
+CAND_0000077,27,0.3161,0.5583323240280151,0.0,0.3655,1.0,0.0,0.2,Frontend Engineer with 8.7 years experience; 14 skills listed; final score 0.3161.
+CAND_0000096,28,0.3153,0.5450336933135986,0.0,0.5905,0.8,0.0,0.2,QA Engineer with 3.2 years experience; 13 skills listed; final score 0.3153.
+CAND_0000043,29,0.3138,0.5357396006584167,0.0263,0.3325,1.0,0.0,0.2,Cloud Engineer with 8.3 years experience; 17 skills listed; final score 0.3138.
+CAND_0000018,30,0.3118,0.5665242671966553,0.0,0.302,1.0,0.0,0.2,Frontend Engineer with 6.6 years experience; 6 skills listed; final score 0.3118.
+CAND_0000019,31,0.3072,0.5650935173034668,0.0,0.259,1.0,0.0,0.2,Project Manager with 6.5 years experience; 8 skills listed; final score 0.3072.
+CAND_0000091,32,0.3061,0.5409859418869019,0.0,0.5082,0.8,0.0,0.2,Frontend Engineer with 3.6 years experience; 16 skills listed; final score 0.3061.
+CAND_0000011,33,0.3041,0.5059846043586731,0.1579,0.4813,0.4,0.1,0.2,QA Engineer with 2.0 years experience; 10 skills listed; final score 0.3041.
+CAND_0000006,34,0.3027,0.5523022413253784,0.0,0.2467,1.0,0.0,0.2,Business Analyst with 6.0 years experience; 8 skills listed; final score 0.3027.
+CAND_0000067,35,0.3027,0.5596491098403931,0.0,0.4283,0.8,0.0,0.2,Frontend Engineer with 3.9 years experience; 10 skills listed; final score 0.3027.
+CAND_0000061,36,0.3007,0.5216668844223022,0.0,0.3025,1.0,0.0,0.2,DevOps Engineer with 7.7 years experience; 9 skills listed; final score 0.3007.
+CAND_0000068,37,0.2979,0.553303599357605,0.0526,0.564,0.4,0.1,0.2,Java Developer with 1.5 years experience; 13 skills listed; final score 0.2979.
+CAND_0000054,38,0.2959,0.541688084602356,0.0,0.405,0.8,0.0,0.2,QA Engineer with 4.9 years experience; 14 skills listed; final score 0.2959.
+CAND_0000064,39,0.2944,0.5241549015045166,0.0,0.434,0.8,0.0,0.2,Accountant with 4.5 years experience; 10 skills listed; final score 0.2944.
+CAND_0000036,40,0.2926,0.5306620597839355,0.0,0.4995,0.7,0.0,0.2,Project Manager with 11.3 years experience; 9 skills listed; final score 0.2926.
+CAND_0000076,41,0.2913,0.530931830406189,0.0,0.4858,0.7,0.0,0.2,Project Manager with 12.0 years experience; 5 skills listed; final score 0.2913.
+CAND_0000048,42,0.2903,0.5520319938659668,0.0,0.423,0.7,0.0,0.2,Mobile Developer with 9.7 years experience; 5 skills listed; final score 0.2903.
+CAND_0000005,43,0.2897,0.5230143666267395,0.0,0.489,0.7,0.0,0.2,Accountant with 11.0 years experience; 6 skills listed; final score 0.2897.
+CAND_0000092,44,0.2888,0.5718175172805786,0.0,0.2583,0.8,0.0,0.2,Business Analyst with 4.8 years experience; 7 skills listed; final score 0.2888.
+CAND_0000050,45,0.2886,0.5673365592956543,0.0,0.468,0.6,0.0,0.2,Business Analyst with 13.5 years experience; 7 skills listed; final score 0.2886.
+CAND_0000070,46,0.2867,0.5212001204490662,0.0,0.364,0.8,0.0,0.2,Business Analyst with 4.2 years experience; 7 skills listed; final score 0.2867.
+CAND_0000071,47,0.2817,0.5492015480995178,0.0724,0.4627,0.4,0.0,0.2,DevOps Engineer with 1.8 years experience; 16 skills listed; final score 0.2817.
+CAND_0000078,48,0.2808,0.5423476696014404,0.0,0.3522,0.7,0.0,0.2,Business Analyst with 10.3 years experience; 8 skills listed; final score 0.2808.
+CAND_0000098,49,0.279,0.5878514647483826,0.0,0.5202,0.4,0.0,0.2,Business Analyst with 1.7 years experience; 9 skills listed; final score 0.279.
+CAND_0000037,50,0.2752,0.5150571465492249,0.0,0.464,0.6,0.0,0.2,Business Analyst with 14.3 years experience; 8 skills listed; final score 0.2752.
+CAND_0000045,51,0.2752,0.5804305672645569,0.0,0.301,0.6,0.0,0.2,Project Manager with 12.2 years experience; 6 skills listed; final score 0.2752.
+CAND_0000073,52,0.2747,0.5078990459442139,0.0,0.477,0.6,0.0,0.2,Project Manager with 12.1 years experience; 6 skills listed; final score 0.2747.
+CAND_0000057,53,0.2744,0.4951498210430145,0.0,0.306,0.8,0.0,0.2,Customer Support with 3.3 years experience; 6 skills listed; final score 0.2744.
+CAND_0000069,54,0.2728,0.5403972864151001,0.0,0.3775,0.6,0.0,0.2,Business Analyst with 13.0 years experience; 8 skills listed; final score 0.2728.
+CAND_0000087,55,0.2718,0.5537720918655396,0.0,0.5335,0.4,0.0,0.2,Full Stack Developer with 2.5 years experience; 11 skills listed; final score 0.2718.
+CAND_0000056,56,0.2696,0.562304675579071,0.0526,0.3592,0.4,0.0,0.2,Frontend Engineer with 1.3 years experience; 14 skills listed; final score 0.2696.
+CAND_0000017,57,0.2684,0.5760195255279541,0.0,0.2443,0.6,0.0,0.2,Accountant with 12.3 years experience; 8 skills listed; final score 0.2684.
+CAND_0000065,58,0.2679,0.5289354920387268,0.0,0.257,0.7,0.0,0.2,Project Manager with 9.7 years experience; 10 skills listed; final score 0.2679.
+CAND_0000099,59,0.2675,0.5243467092514038,0.0263,0.4983,0.4,0.0,0.2,Full Stack Developer with 2.6 years experience; 16 skills listed; final score 0.2675.
+CAND_0000040,60,0.2663,0.5794905424118042,0.0,0.4138,0.4,0.0,0.2,Customer Support with 1.6 years experience; 9 skills listed; final score 0.2663.
+CAND_0000013,61,0.2659,0.6028150320053101,0.0,0.352,0.4,0.0,0.2,Civil Engineer with 1.1 years experience; 10 skills listed; final score 0.2659.
+CAND_0000081,62,0.2659,0.5200119018554688,0.0,0.2585,0.7,0.0,0.2,Accountant with 10.1 years experience; 9 skills listed; final score 0.2659.
+CAND_0000047,63,0.2639,0.5628573894500732,0.0,0.4318,0.4,0.0,0.2,Project Manager with 2.4 years experience; 7 skills listed; final score 0.2639.
+CAND_0000079,64,0.2624,0.4890763461589813,0.0,0.4017,0.6,0.0,0.2,Customer Support with 13.2 years experience; 6 skills listed; final score 0.2624.
+CAND_0000090,65,0.2618,0.5514683723449707,0.0,0.4392,0.4,0.0,0.2,QA Engineer with 1.7 years experience; 15 skills listed; final score 0.2618.
+CAND_0000003,66,0.2572,0.5447601675987244,0.0,0.4098,0.4,0.0,0.2,Customer Support with 1.1 years experience; 6 skills listed; final score 0.2572.
+CAND_0000034,67,0.2567,0.5297094583511353,0.0,0.243,0.6,0.0,0.2,Business Analyst with 14.5 years experience; 10 skills listed; final score 0.2567.
+CAND_0000083,68,0.2562,0.6137329339981079,0.6184,0.4815,1.0,0.0,-1.0,Graphic Designer with 6.7 years experience; 17 skills listed; final score 0.2562.
+CAND_0000059,69,0.2494,0.5463820099830627,0.0,0.3282,0.4,0.0,0.2,Frontend Engineer with 1.5 years experience; 13 skills listed; final score 0.2494.
+CAND_0000066,70,0.247,0.5404852628707886,0.0,0.319,0.4,0.0,0.2,Content Writer with 2.4 years experience; 11 skills listed; final score 0.247.
+CAND_0000074,71,0.2223,0.6489787101745605,0.6579,0.5555,0.4,0.0,-1.0,Operations Manager with 1.9 years experience; 15 skills listed; final score 0.2223.
+CAND_0000097,72,0.2213,0.634437084197998,0.5263,0.3107,1.0,0.0,-1.0,Mechanical Engineer with 5.8 years experience; 17 skills listed; final score 0.2213.
+CAND_0000024,73,0.1053,0.5613337159156799,0.0,0.65,1.0,0.0,-1.0,HR Manager with 7.5 years experience; 6 skills listed; final score 0.1053.
+CAND_0000046,74,0.0972,0.6121318340301514,0.0,0.4417,1.0,0.0,-1.0,Mechanical Engineer with 7.8 years experience; 6 skills listed; final score 0.0972.
+CAND_0000020,75,0.0944,0.5787479877471924,0.0,0.4975,1.0,0.0,-1.0,Mechanical Engineer with 6.3 years experience; 7 skills listed; final score 0.0944.
+CAND_0000026,76,0.0873,0.5610101819038391,0.0,0.4707,1.0,0.0,-1.0,Graphic Designer with 6.8 years experience; 8 skills listed; final score 0.0873.
+CAND_0000080,77,0.0827,0.5615421533584595,0.0,0.4233,1.0,0.0,-1.0,Graphic Designer with 8.3 years experience; 7 skills listed; final score 0.0827.
+CAND_0000095,78,0.08,0.5653676986694336,0.0,0.3867,1.0,0.0,-1.0,HR Manager with 6.7 years experience; 5 skills listed; final score 0.08.
+CAND_0000033,79,0.0702,0.5236344337463379,0.0,0.3932,1.0,0.0,-1.0,Graphic Designer with 8.6 years experience; 10 skills listed; final score 0.0702.
+CAND_0000008,80,0.0672,0.5698256492614746,0.0,0.4475,0.8,0.0,-1.0,Operations Manager with 3.6 years experience; 8 skills listed; final score 0.0672.
+CAND_0000053,81,0.0667,0.573401927947998,0.0,0.4337,0.8,0.0,-1.0,Graphic Designer with 3.9 years experience; 10 skills listed; final score 0.0667.
+CAND_0000042,82,0.0646,0.5069817900657654,0.0,0.379,1.0,0.0,-1.0,HR Manager with 5.0 years experience; 10 skills listed; final score 0.0646.
+CAND_0000086,83,0.0624,0.5731860399246216,0.0,0.3913,0.8,0.0,-1.0,Mechanical Engineer with 4.9 years experience; 7 skills listed; final score 0.0624.
+CAND_0000085,84,0.0585,0.591347873210907,0.0,0.507,0.6,0.0,-1.0,Mechanical Engineer with 12.9 years experience; 9 skills listed; final score 0.0585.
+CAND_0000039,85,0.0579,0.5571140050888062,0.0,0.3858,0.8,0.0,-1.0,Marketing Manager with 3.9 years experience; 9 skills listed; final score 0.0579.
+CAND_0000049,86,0.0537,0.5558494925498962,0.0,0.4475,0.7,0.0,-1.0,Mechanical Engineer with 11.8 years experience; 6 skills listed; final score 0.0537.
+CAND_0000002,87,0.0527,0.6012685894966125,0.0,0.4243,0.6,0.0,-1.0,Operations Manager with 12.5 years experience; 9 skills listed; final score 0.0527.
+CAND_0000030,88,0.0525,0.5097862482070923,0.0,0.551,0.7,0.0,-1.0,Marketing Manager with 10.0 years experience; 9 skills listed; final score 0.0525.
+CAND_0000009,89,0.0522,0.5823013186454773,0.0,0.3665,0.7,0.0,-1.0,Mechanical Engineer with 11.0 years experience; 6 skills listed; final score 0.0522.
+CAND_0000041,90,0.0491,0.5883596539497375,0.0,0.4197,0.6,0.0,-1.0,Operations Manager with 13.7 years experience; 9 skills listed; final score 0.0491.
+CAND_0000058,91,0.0485,0.540617823600769,0.0,0.433,0.7,0.0,-1.0,HR Manager with 10.1 years experience; 10 skills listed; final score 0.0485.
+CAND_0000004,92,0.0451,0.5707495212554932,0.0,0.2237,0.8,0.0,-1.0,Marketing Manager with 3.8 years experience; 10 skills listed; final score 0.0451.
+CAND_0000084,93,0.0387,0.5527952909469604,0.0,0.3053,0.7,0.0,-1.0,Marketing Manager with 10.6 years experience; 7 skills listed; final score 0.0387.
+CAND_0000094,94,0.0334,0.5940002202987671,0.0,0.449,0.4,0.0,-1.0,Graphic Designer with 2.6 years experience; 10 skills listed; final score 0.0334.
+CAND_0000100,95,0.029,0.5577989816665649,0.0,0.2957,0.6,0.0,-1.0,Graphic Designer with 13.5 years experience; 7 skills listed; final score 0.029.
+CAND_0000089,96,0.0234,0.5697615742683411,0.0,0.4098,0.4,0.0,-1.0,Mechanical Engineer with 1.1 years experience; 6 skills listed; final score 0.0234.
+CAND_0000028,97,0.0216,0.575318455696106,0.0,0.378,0.4,0.0,-1.0,Operations Manager with 1.1 years experience; 10 skills listed; final score 0.0216.
+CAND_0000052,98,0.0169,0.5748480558395386,0.0,0.3315,0.4,0.0,-1.0,Mechanical Engineer with 1.4 years experience; 5 skills listed; final score 0.0169.
+CAND_0000012,99,0.0132,0.5814273357391357,0.0,0.2785,0.4,0.0,-1.0,Operations Manager with 1.1 years experience; 10 skills listed; final score 0.0132.
+CAND_0000022,100,0.0075,0.5350677371025085,0.0,0.3377,0.4,0.0,-1.0,Mechanical Engineer with 1.1 years experience; 8 skills listed; final score 0.0075.

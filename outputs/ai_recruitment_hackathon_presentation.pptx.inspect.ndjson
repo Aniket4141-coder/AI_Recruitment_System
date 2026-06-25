@@ -1,0 +1,397 @@
+{"kind":"deck","id":"pr/b14sus","name":"Deck"}
+{"kind":"layout","layoutId":"2b6f01e0-69ad-428b-8cd8-c311d9de6a00","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"c2745831-bea9-4e60-ba24-fd8fd126e42a","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/eflao6","slide":1,"title":"DATA & AI HACKATHON","textShapes":13}
+{"kind":"shape","id":"sh/twra5gbq","slide":1,"bbox":[0,0,24,720]}
+{"kind":"shape","id":"sh/m58z25kb","slide":1,"bbox":[1010,-40,340,340]}
+{"kind":"shape","id":"sh/bq1oryts","slide":1,"bbox":[1090,180,260,260]}
+{"kind":"shape","id":"sh/4nap4r65","slide":1,"name":"tp","bbox":[88,72,220,34]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":1,"name":"tp-t","text":"DATA & AI HACKATHON","textPreview":"DATA & AI HACKATHON","textChars":19,"textLines":1,"bbox":[88,73,220,32]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":1,"name":"tt","text":"AI Recruitment System\nfor smarter resume screening and explainable ranking","textPreview":"AI Recruitment System | for smarter resume screening and explainable ranking","textChars":74,"textLines":2,"bbox":[88,128,700,180]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":1,"text":"Semantic resume matching, candidate ranking, skill scoring, behavioral analysis, product fit, title relevance, and recruiter-friendly explanations in one end-to-end workflow.","textPreview":"Semantic resume matching, candidate ranking, skill scoring, behavioral analysis, product fit, title relevance, and recruiter-friendly exp...","textChars":174,"textLines":1,"bbox":[88,320,660,116]}
+{"kind":"shape","id":"sh/4vmtwra5","slide":1,"name":"chip0","bbox":[88,500,136,30]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":1,"name":"chip0-t","text":"Python","textPreview":"Python","textChars":6,"textLines":1,"bbox":[88,501,136,28]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":1,"name":"chip1","bbox":[236,500,136,30]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":1,"name":"chip1-t","text":"Sentence Transformers","textPreview":"Sentence Transformers","textChars":21,"textLines":1,"bbox":[236,501,136,28]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":1,"name":"chip2","bbox":[384,500,136,30]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":1,"name":"chip2-t","text":"Scikit-Learn","textPreview":"Scikit-Learn","textChars":12,"textLines":1,"bbox":[384,501,136,28]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":1,"name":"chip3","bbox":[532,500,136,30]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":1,"name":"chip3-t","text":"Streamlit","textPreview":"Streamlit","textChars":9,"textLines":1,"bbox":[532,501,136,28]}
+{"kind":"shape","id":"sh/fepkzupw","slide":1,"bbox":[820,116,352,122]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":1,"text":"Semantic Matching","textPreview":"Semantic Matching","textChars":17,"textLines":1,"bbox":[848,138,290,28]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":1,"text":"Captures meaning beyond keywords.","textPreview":"Captures meaning beyond keywords.","textChars":33,"textLines":1,"bbox":[848,174,286,42]}
+{"kind":"shape","id":"sh/83itgfml","slide":1,"bbox":[820,266,352,122]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":1,"text":"Ranking Engine","textPreview":"Ranking Engine","textChars":14,"textLines":1,"bbox":[848,288,290,28]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":1,"text":"Blends multiple recruiter signals.","textPreview":"Blends multiple recruiter signals.","textChars":34,"textLines":1,"bbox":[848,324,286,42]}
+{"kind":"shape","id":"sh/m58z25kb","slide":1,"bbox":[820,416,352,122]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":1,"text":"Explainable AI","textPreview":"Explainable AI","textChars":14,"textLines":1,"bbox":[848,438,290,28]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":1,"text":"Shows why each candidate moved up or down.","textPreview":"Shows why each candidate moved up or down.","textChars":42,"textLines":1,"bbox":[848,474,286,42]}
+{"kind":"notes","id":"nt/eflao6","slide":1,"text":"Open with the core value proposition: an end-to-end hiring intelligence system.\nEmphasize semantic matching, modular scoring, explainability, and a recruiter-friendly dashboard.\nSuggested visual: dark hero slide with three feature cards and compact technology chips."}
+{"kind":"slide","id":"sl/5aipgk","slide":2,"title":"02 | Problem","textShapes":10}
+{"kind":"shape","id":"sh/x4nap4r6","slide":2,"bbox":[72,28,180,6]}
+{"kind":"shape","id":"sh/qd4vmtwr","slide":2,"name":"h2","bbox":[72,42,240,30]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":2,"name":"h2-t","text":"02 | Problem","textPreview":"02 | Problem","textChars":12,"textLines":1,"bbox":[72,43,240,28]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":2,"name":"t2","text":"Problem Statement","textPreview":"Problem Statement","textChars":17,"textLines":1,"bbox":[72,90,900,60]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":2,"name":"s2","text":"Recruiters need to screen large candidate pools quickly, fairly, and with enough context to trust the shortlist.","textPreview":"Recruiters need to screen large candidate pools quickly, fairly, and with enough context to trust the shortlist.","textChars":112,"textLines":1,"bbox":[72,152,1000,34]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":2,"text":"AI Recruitment System | Data & AI Hackathon","textPreview":"AI Recruitment System | Data & AI Hackathon","textChars":43,"textLines":1,"bbox":[72,680,400,18]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1160,676,48,20]}
+{"kind":"shape","id":"sh/8z25kb6x","slide":2,"name":"p1-bg","bbox":[72,214,540,300]}
+{"kind":"shape","id":"sh/1gvy90je","slide":2,"name":"p1-a","bbox":[72,214,8,300]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":2,"name":"p1-title","text":"What makes screening hard?","textPreview":"What makes screening hard?","textChars":26,"textLines":1,"bbox":[94,232,496,26]}
+{"kind":"textbox","id":"sh/wval87ed","slide":2,"name":"p1-body","text":"Resumes arrive in large volumes and have to be evaluated under time pressure.\nKeyword matching misses transferable skills and contextual relevance.\nHiring teams need not only a rank order, but also a clear reason behind each recommendation.","textPreview":"Resumes arrive in large volumes and have to be evaluated under time pressure. | Keyword matching misses transferable skills and contextua...","textChars":240,"textLines":3,"bbox":[94,268,496,230]}
+{"kind":"shape","id":"sh/7adsji5s","slide":2,"name":"p2-bg","bbox":[652,214,556,300]}
+{"kind":"shape","id":"sh/epkzupwb","slide":2,"name":"p2-a","bbox":[652,214,8,300]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":2,"name":"p2-title","text":"What the system must deliver","textPreview":"What the system must deliver","textChars":28,"textLines":1,"bbox":[674,232,512,26]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":2,"name":"p2-body","text":"Meaning-aware matching between the job description and candidate profiles.\nA multi-signal ranking engine that combines text, history, behavior, and role fit.\nAn explainable output that recruiters can review and act on immediately.","textPreview":"Meaning-aware matching between the job description and candidate profiles. | A multi-signal ranking engine that combines text, history, b...","textChars":230,"textLines":3,"bbox":[674,268,512,230]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":2,"text":"Goal: replace manual triage with a system that surfaces the strongest candidates faster, while preserving recruiter trust in every score.","textPreview":"Goal: replace manual triage with a system that surfaces the strongest candidates faster, while preserving recruiter trust in every score.","textChars":137,"textLines":1,"bbox":[72,548,1136,68]}
+{"kind":"notes","id":"nt/5aipgk","slide":2,"text":"Walk the audience through the pain of manual screening: too many resumes, too little time, and too much noise.\nPoint out that the real issue is not only matching, but matching with context and trust.\nSuggested visual: a funnel or pressure chart showing large input volume narrowing to a few trusted candidates."}
+{"kind":"slide","id":"sl/ftpz22","slide":3,"title":"03 | Limitations","textShapes":12}
+{"kind":"shape","id":"sh/mlkjm1cf","slide":3,"bbox":[72,28,180,6]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":3,"name":"h3","bbox":[72,42,240,30]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":3,"name":"h3-t","text":"03 | Limitations","textPreview":"03 | Limitations","textChars":16,"textLines":1,"bbox":[72,43,240,28]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":3,"name":"t3","text":"Existing System Limitations","textPreview":"Existing System Limitations","textChars":27,"textLines":1,"bbox":[72,90,900,60]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":3,"name":"s3","text":"Traditional resume screening often optimizes for speed or recall, but rarely balances relevance, transparency, and scale.","textPreview":"Traditional resume screening often optimizes for speed or recall, but rarely balances relevance, transparency, and scale.","textChars":121,"textLines":1,"bbox":[72,152,1000,34]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":3,"text":"AI Recruitment System | Data & AI Hackathon","textPreview":"AI Recruitment System | Data & AI Hackathon","textChars":43,"textLines":1,"bbox":[72,680,400,18]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1160,676,48,20]}
+{"kind":"shape","id":"sh/fil0rqd4","slide":3,"name":"l1-bg","bbox":[72,210,352,318]}
+{"kind":"shape","id":"sh/qxs72x4n","slide":3,"name":"l1-a","bbox":[72,210,8,318]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":3,"name":"l1-title","text":"Rule-based filtering","textPreview":"Rule-based filtering","textChars":20,"textLines":1,"bbox":[94,228,308,26]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":3,"name":"l1-body","text":"Hard-coded keyword logic is brittle and easy to game.\nIt misses synonyms, adjacent domains, and transferable experience.","textPreview":"Hard-coded keyword logic is brittle and easy to game. | It misses synonyms, adjacent domains, and transferable experience.","textChars":120,"textLines":2,"bbox":[94,264,308,248]}
+{"kind":"shape","id":"sh/i5sneloj","slide":3,"name":"l2-bg","bbox":[464,210,352,318]}
+{"kind":"shape","id":"sh/7qpg3ex0","slide":3,"name":"l2-a","bbox":[464,210,8,318]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":3,"name":"l2-title","text":"Opaque scoring","textPreview":"Opaque scoring","textChars":14,"textLines":1,"bbox":[486,228,308,26]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":3,"name":"l2-body","text":"A single score hides which signal actually mattered.\nRecruiters cannot easily challenge or audit the result.","textPreview":"A single score hides which signal actually mattered. | Recruiters cannot easily challenge or audit the result.","textChars":108,"textLines":2,"bbox":[486,264,308,248]}
+{"kind":"shape","id":"sh/ed8v6psf","slide":3,"name":"l3-bg","bbox":[856,210,352,318]}
+{"kind":"shape","id":"sh/7y1kre1w","slide":3,"name":"l3-a","bbox":[856,210,8,318]}
+{"kind":"textbox","id":"sh/0nuxc3yl","slide":3,"name":"l3-title","text":"Manual review bottleneck","textPreview":"Manual review bottleneck","textChars":24,"textLines":1,"bbox":[878,228,308,26]}
+{"kind":"textbox","id":"sh/p8nqxs72","slide":3,"name":"l3-body","text":"Human-only review does not scale across hundreds or thousands of profiles.\nConsistency drops when reviewers are comparing candidates in parallel.","textPreview":"Human-only review does not scale across hundreds or thousands of profiles. | Consistency drops when reviewers are comparing candidates in...","textChars":145,"textLines":2,"bbox":[878,264,308,248]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":3,"text":"Takeaway: the legacy approach is either fast but shallow, or careful but slow. The hackathon system is designed to do both.","textPreview":"Takeaway: the legacy approach is either fast but shallow, or careful but slow. The hackathon system is designed to do both.","textChars":123,"textLines":1,"bbox":[72,552,1136,56]}
+{"kind":"notes","id":"nt/ftpz22","slide":3,"text":"Explain that the objective is not to remove recruiters from the loop, but to give them a better triage layer.\nHighlight three gaps: brittleness, opacity, and scale.\nSuggested visual: a three-column comparison with warning styling and a bottom takeaway banner."}
+{"kind":"slide","id":"sl/m6fdx1","slide":4,"title":"04 | Solution","textShapes":18}
+{"kind":"shape","id":"sh/onyd0z61","slide":4,"bbox":[72,28,180,6]}
+{"kind":"shape","id":"sh/z25kb6xk","slide":4,"name":"h4","bbox":[72,42,240,30]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":4,"name":"h4-t","text":"04 | Solution","textPreview":"04 | Solution","textChars":13,"textLines":1,"bbox":[72,43,240,28]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":4,"name":"t4","text":"Proposed Solution","textPreview":"Proposed Solution","textChars":17,"textLines":1,"bbox":[72,90,900,60]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":4,"name":"s4","text":"A modular AI pipeline transforms candidate data into a ranked, explainable shortlist.","textPreview":"A modular AI pipeline transforms candidate data into a ranked, explainable shortlist.","textChars":85,"textLines":1,"bbox":[72,152,1000,34]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":4,"text":"AI Recruitment System | Data & AI Hackathon","textPreview":"AI Recruitment System | Data & AI Hackathon","textChars":43,"textLines":1,"bbox":[72,680,400,18]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1160,676,48,20]}
+{"kind":"shape","id":"sh/dsji5sne","slide":4,"bbox":[72,214,270.5,280]}
+{"kind":"shape","id":"sh/o7qpg3ex","slide":4,"name":"f0","bbox":[92,234,56,28]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":4,"name":"f0-t","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[92,235,56,26]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":4,"text":"Ingest","textPreview":"Ingest","textChars":6,"textLines":1,"bbox":[92,276,230.5,34]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":4,"text":"Load candidates.jsonl and job_description.docx as structured inputs.","textPreview":"Load candidates.jsonl and job_description.docx as structured inputs.","textChars":68,"textLines":1,"bbox":[92,318,230.5,150]}
+{"kind":"shape","id":"sh/1w7mp0bi","slide":4,"bbox":[360.5,214,270.5,280]}
+{"kind":"shape","id":"sh/qh0fepkz","slide":4,"name":"f1","bbox":[380.5,234,56,28]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":4,"name":"f1-t","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[380.5,235,56,26]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":4,"text":"Match","textPreview":"Match","textChars":5,"textLines":1,"bbox":[380.5,276,230.5,34]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":4,"text":"Run semantic matching and skill overlap to capture relevance.","textPreview":"Run semantic matching and skill overlap to capture relevance.","textChars":61,"textLines":1,"bbox":[380.5,318,230.5,150]}
+{"kind":"shape","id":"sh/ulwval87","slide":4,"bbox":[649,214,270.5,280]}
+{"kind":"shape","id":"sh/j6tovaho","slide":4,"name":"f2","bbox":[669,234,56,28]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":4,"name":"f2-t","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[669,235,56,26]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":4,"text":"Score","textPreview":"Score","textChars":5,"textLines":1,"bbox":[669,276,230.5,34]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":4,"text":"Compute experience, behavioral, product fit, and title relevance.","textPreview":"Compute experience, behavioral, product fit, and title relevance.","textChars":65,"textLines":1,"bbox":[669,318,230.5,150]}
+{"kind":"shape","id":"sh/4nap4r65","slide":4,"bbox":[937.5,214,270.5,280]}
+{"kind":"shape","id":"sh/bq1oryts","slide":4,"name":"f3","bbox":[957.5,234,56,28]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":4,"name":"f3-t","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[957.5,235,56,26]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":4,"text":"Rank","textPreview":"Rank","textChars":4,"textLines":1,"bbox":[957.5,276,230.5,34]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":4,"text":"Blend all signals, generate explanations, and export submission.csv.","textPreview":"Blend all signals, generate explanations, and export submission.csv.","textChars":68,"textLines":1,"bbox":[957.5,318,230.5,150]}
+{"kind":"textbox","id":"sh/bm58z25k","slide":4,"text":"The architecture is intentionally modular, so each score can be tested, tuned, and explained independently without rebuilding the full system.","textPreview":"The architecture is intentionally modular, so each score can be tested, tuned, and explained independently without rebuilding the full sy...","textChars":142,"textLines":1,"bbox":[72,536,1136,70]}
+{"kind":"notes","id":"nt/m6fdx1","slide":4,"text":"Frame the solution as a pipeline: inputs, scoring modules, ranking, and export.\nCall out that modularity makes the system easier to improve during a hackathon and easier to maintain later.\nSuggested visual: four connected blocks with short labels and a compact conclusion strip."}
+{"kind":"slide","id":"sl/4bnoem","slide":5,"title":"05 | Architecture","textShapes":18}
+{"kind":"shape","id":"sh/vy90je9c","slide":5,"bbox":[72,28,180,6]}
+{"kind":"shape","id":"sh/oj2t83it","slide":5,"name":"h5","bbox":[72,42,240,30]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":5,"name":"h5-t","text":"05 | Architecture","textPreview":"05 | Architecture","textChars":17,"textLines":1,"bbox":[72,43,240,28]}
+{"kind":"textbox","id":"sh/61032lsz","slide":5,"name":"t5","text":"System Architecture","textPreview":"System Architecture","textChars":19,"textLines":1,"bbox":[72,90,900,60]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":5,"name":"s5","text":"The system is organized into clear layers from ingestion to ranking, explanation, and output.","textPreview":"The system is organized into clear layers from ingestion to ranking, explanation, and output.","textChars":93,"textLines":1,"bbox":[72,152,1000,34]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":5,"text":"AI Recruitment System | Data & AI Hackathon","textPreview":"AI Recruitment System | Data & AI Hackathon","textChars":43,"textLines":1,"bbox":[72,680,400,18]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1160,676,48,20]}
+{"kind":"shape","id":"sh/6tovahoz","slide":5,"name":"a1-bg","bbox":[72,212,382,342]}
+{"kind":"shape","id":"sh/vahoza1g","slide":5,"name":"a1-a","bbox":[72,212,8,342]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":5,"name":"a1-title","text":"Design principles","textPreview":"Design principles","textChars":17,"textLines":1,"bbox":[94,230,338,26]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":5,"name":"a1-body","text":"Keep each module isolated so it can be tested independently.\nProcess candidate records in batches for better performance on large JSONL files.\nSeparate scoring from ranking so the final decision remains auditable.","textPreview":"Keep each module isolated so it can be tested independently. | Process candidate records in batches for better performance on large JSONL...","textChars":213,"textLines":3,"bbox":[94,266,338,272]}
+{"kind":"shape","id":"sh/pwb2hwfy","slide":5,"bbox":[510,212,628,68]}
+{"kind":"shape","id":"sh/0bi9s36h","slide":5,"name":"lay0","bbox":[528,230,120,28]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":5,"name":"lay0-t","text":"Inputs","textPreview":"Inputs","textChars":6,"textLines":1,"bbox":[528,231,120,26]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":5,"text":"candidates.jsonl, job_description.docx","textPreview":"candidates.jsonl, job_description.docx","textChars":38,"textLines":1,"bbox":[670,230,448,28]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":5,"text":"↓","textPreview":"↓","textChars":1,"textLines":1,"bbox":[806,284,36,20]}
+{"kind":"shape","id":"sh/wjudg7ad","slide":5,"bbox":[510,296,628,68]}
+{"kind":"shape","id":"sh/72x4nap4","slide":5,"name":"lay1","bbox":[528,314,120,28]}
+{"kind":"textbox","id":"sh/ih4byhgn","slide":5,"name":"lay1-t","text":"Parsing & Text Prep","textPreview":"Parsing & Text Prep","textChars":19,"textLines":1,"bbox":[528,315,120,26]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":5,"text":"Candidate object creation and text normalization","textPreview":"Candidate object creation and text normalization","textChars":48,"textLines":1,"bbox":[670,314,448,28]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":5,"text":"↓","textPreview":"↓","textChars":1,"textLines":1,"bbox":[806,368,36,20]}
+{"kind":"shape","id":"sh/4zidonyd","slide":5,"bbox":[510,380,628,68]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":5,"name":"lay2","bbox":[528,398,120,28]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":5,"name":"lay2-t","text":"Scoring Engine","textPreview":"Scoring Engine","textChars":14,"textLines":1,"bbox":[528,399,120,26]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":5,"text":"Semantic, skill, experience, behavior, product fit, and title scores","textPreview":"Semantic, skill, experience, behavior, product fit, and title scores","textChars":68,"textLines":1,"bbox":[670,398,448,28]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":5,"text":"↓","textPreview":"↓","textChars":1,"textLines":1,"bbox":[806,452,36,20]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":5,"bbox":[510,464,628,68]}
+{"kind":"shape","id":"sh/m94fu18j","slide":5,"name":"lay3","bbox":[528,482,120,28]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":5,"name":"lay3-t","text":"Output Layer","textPreview":"Output Layer","textChars":12,"textLines":1,"bbox":[528,483,120,26]}
+{"kind":"textbox","id":"sh/1032lszq","slide":5,"text":"Final ranking, reasoning, submission.csv, and dashboard views","textPreview":"Final ranking, reasoning, submission.csv, and dashboard views","textChars":61,"textLines":1,"bbox":[670,482,448,28]}
+{"kind":"notes","id":"nt/4bnoem","slide":5,"text":"Describe the architecture from top to bottom: inputs, parsing, scoring, and outputs.\nEmphasize that the separation of concerns makes the system easy to extend with new signals.\nSuggested visual: a vertical layered diagram with a clear arrow flow from input to CSV output."}
+{"kind":"slide","id":"sl/kdovxs","slide":6,"title":"06 | Workflow","textShapes":26}
+{"kind":"shape","id":"sh/z25kb6xk","slide":6,"bbox":[72,28,180,6]}
+{"kind":"shape","id":"sh/onyd0z61","slide":6,"name":"h6","bbox":[72,42,240,30]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":6,"name":"h6-t","text":"06 | Workflow","textPreview":"06 | Workflow","textChars":13,"textLines":1,"bbox":[72,43,240,28]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":6,"name":"t6","text":"Workflow Diagram","textPreview":"Workflow Diagram","textChars":16,"textLines":1,"bbox":[72,90,900,60]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":6,"name":"s6","text":"The execution path is optimized for large datasets: read once, score in batches, rank once.","textPreview":"The execution path is optimized for large datasets: read once, score in batches, rank once.","textChars":91,"textLines":1,"bbox":[72,152,1000,34]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":6,"text":"AI Recruitment System | Data & AI Hackathon","textPreview":"AI Recruitment System | Data & AI Hackathon","textChars":43,"textLines":1,"bbox":[72,680,400,18]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1160,676,48,20]}
+{"kind":"shape","id":"sh/61032lsz","slide":6,"bbox":[72,218,198,170]}
+{"kind":"shape","id":"sh/vmtwra5g","slide":6,"name":"wf0","bbox":[88,234,44,28]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":6,"name":"wf0-t","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[88,235,44,26]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":6,"text":"Load inputs","textPreview":"Load inputs","textChars":11,"textLines":1,"bbox":[88,276,166,28]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":6,"text":"Read JSONL candidates and the job description document.","textPreview":"Read JSONL candidates and the job description document.","textChars":55,"textLines":1,"bbox":[88,310,166,58]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":6,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[272,278,18,30]}
+{"kind":"shape","id":"sh/bq1oryts","slide":6,"bbox":[284,218,198,170]}
+{"kind":"shape","id":"sh/m58z25kb","slide":6,"name":"wf1","bbox":[300,234,44,28]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":6,"name":"wf1-t","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[300,235,44,26]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":6,"text":"Parse profiles","textPreview":"Parse profiles","textChars":14,"textLines":1,"bbox":[300,276,166,28]}
+{"kind":"textbox","id":"sh/bm58z25k","slide":6,"text":"Normalize candidate fields into a consistent object model.","textPreview":"Normalize candidate fields into a consistent object model.","textChars":58,"textLines":1,"bbox":[300,310,166,58]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":6,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[484,278,18,30]}
+{"kind":"shape","id":"sh/q5o7qpg3","slide":6,"bbox":[496,218,198,170]}
+{"kind":"shape","id":"sh/jqh0fepk","slide":6,"name":"wf2","bbox":[512,234,44,28]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":6,"name":"wf2-t","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[512,235,44,26]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":6,"text":"Batch score","textPreview":"Batch score","textChars":11,"textLines":1,"bbox":[512,276,166,28]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":6,"text":"Run the semantic model and modular scorers over chunks.","textPreview":"Run the semantic model and modular scorers over chunks.","textChars":55,"textLines":1,"bbox":[512,310,166,58]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":6,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[696,278,18,30]}
+{"kind":"shape","id":"sh/8nqxs72x","slide":6,"bbox":[708,218,198,170]}
+{"kind":"shape","id":"sh/18jqh0fe","slide":6,"name":"wf3","bbox":[724,234,44,28]}
+{"kind":"textbox","id":"sh/ulwval87","slide":6,"name":"wf3-t","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[724,235,44,26]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":6,"text":"Rank & explain","textPreview":"Rank & explain","textChars":14,"textLines":1,"bbox":[724,276,166,28]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":6,"text":"Sort by final score and create recruiter-friendly reasoning.","textPreview":"Sort by final score and create recruiter-friendly reasoning.","textChars":60,"textLines":1,"bbox":[724,310,166,58]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":6,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[908,278,18,30]}
+{"kind":"shape","id":"sh/7qpg3ex0","slide":6,"bbox":[920,218,198,170]}
+{"kind":"shape","id":"sh/i5sneloj","slide":6,"name":"wf4","bbox":[936,234,44,28]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":6,"name":"wf4-t","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[936,235,44,26]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":6,"text":"Export results","textPreview":"Export results","textChars":14,"textLines":1,"bbox":[936,276,166,28]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":6,"text":"Write submission.csv with the final ranked list.","textPreview":"Write submission.csv with the final ranked list.","textChars":48,"textLines":1,"bbox":[936,310,166,58]}
+{"kind":"shape","id":"sh/ed8v6psf","slide":6,"name":"wf-note-bg","bbox":[72,418,1136,182]}
+{"kind":"shape","id":"sh/p8nqxs72","slide":6,"name":"wf-note-a","bbox":[72,418,8,182]}
+{"kind":"textbox","id":"sh/0nuxc3yl","slide":6,"name":"wf-note-title","text":"Performance notes","textPreview":"Performance notes","textChars":17,"textLines":1,"bbox":[94,436,1092,26]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":6,"name":"wf-note-body","text":"Semantic similarity is computed in batches to keep runtime practical for large candidate pools.\nAll other scoring modules are lightweight and run in pure Python.\nThe final ranking pass is a single sort over the scored rows.","textPreview":"Semantic similarity is computed in batches to keep runtime practical for large candidate pools. | All other scoring modules are lightweig...","textChars":223,"textLines":3,"bbox":[94,472,1092,112]}
+{"kind":"notes","id":"nt/kdovxs","slide":6,"text":"Explain the pipeline in the order it executes, from file load through CSV export.\nHighlight the batching strategy as the key scale optimization.\nSuggested visual: a horizontal workflow with a performance callout panel underneath."}
+{"kind":"slide","id":"sl/fqwl5k","slide":7,"title":"07 | Stack","textShapes":23}
+{"kind":"shape","id":"sh/gfmlkjm1","slide":7,"bbox":[72,28,180,6]}
+{"kind":"shape","id":"sh/rytsvu9k","slide":7,"name":"h7","bbox":[72,42,240,30]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":7,"name":"h7-t","text":"07 | Stack","textPreview":"07 | Stack","textChars":10,"textLines":1,"bbox":[72,43,240,28]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":7,"name":"t7","text":"Technology Stack","textPreview":"Technology Stack","textChars":16,"textLines":1,"bbox":[72,90,900,60]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":7,"name":"s7","text":"Each layer of the stack was chosen to balance speed, signal quality, and presentation value.","textPreview":"Each layer of the stack was chosen to balance speed, signal quality, and presentation value.","textChars":92,"textLines":1,"bbox":[72,152,1000,34]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":7,"text":"AI Recruitment System | Data & AI Hackathon","textPreview":"AI Recruitment System | Data & AI Hackathon","textChars":43,"textLines":1,"bbox":[72,680,400,18]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1160,676,48,20]}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":7,"bbox":[72,220,360,144]}
+{"kind":"shape","id":"sh/g3ex0nux","slide":7,"bbox":[72,220,360,8]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":7,"text":"Python","textPreview":"Python","textChars":6,"textLines":1,"bbox":[90,244,310,26]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":7,"text":"Primary application language and orchestration layer.","textPreview":"Primary application language and orchestration layer.","textChars":53,"textLines":1,"bbox":[90,284,312,54]}
+{"kind":"shape","id":"sh/4fu18jqh","slide":7,"bbox":[90,328,90,24]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":7,"name":"pill-t","text":"Core","textPreview":"Core","textChars":4,"textLines":1,"bbox":[90,329,90,22]}
+{"kind":"shape","id":"sh/qxs72x4n","slide":7,"bbox":[448,220,360,144]}
+{"kind":"shape","id":"sh/fil0rqd4","slide":7,"bbox":[448,220,360,8]}
+{"kind":"textbox","id":"sh/83itgfml","slide":7,"text":"Pandas","textPreview":"Pandas","textChars":6,"textLines":1,"bbox":[466,244,310,26]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":7,"text":"Data handling, tabular output, and CSV export.","textPreview":"Data handling, tabular output, and CSV export.","textChars":46,"textLines":1,"bbox":[466,284,312,54]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":7,"bbox":[466,328,90,24]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":7,"name":"pill-t","text":"Core","textPreview":"Core","textChars":4,"textLines":1,"bbox":[466,329,90,22]}
+{"kind":"shape","id":"sh/72x4nap4","slide":7,"bbox":[824,220,360,144]}
+{"kind":"shape","id":"sh/ih4byhgn","slide":7,"bbox":[824,220,360,8]}
+{"kind":"textbox","id":"sh/p8nqxs72","slide":7,"text":"NumPy","textPreview":"NumPy","textChars":5,"textLines":1,"bbox":[842,244,310,26]}
+{"kind":"textbox","id":"sh/0nuxc3yl","slide":7,"text":"Numeric utilities and efficient score operations.","textPreview":"Numeric utilities and efficient score operations.","textChars":49,"textLines":1,"bbox":[842,284,312,54]}
+{"kind":"shape","id":"sh/7ed8bat4","slide":7,"bbox":[842,328,90,24]}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":7,"name":"pill-t","text":"Core","textPreview":"Core","textChars":4,"textLines":1,"bbox":[842,329,90,22]}
+{"kind":"shape","id":"sh/pkzupwb2","slide":7,"bbox":[72,390,360,144]}
+{"kind":"shape","id":"sh/0z61032l","slide":7,"bbox":[72,390,360,8]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":7,"text":"Sentence Transformers","textPreview":"Sentence Transformers","textChars":21,"textLines":1,"bbox":[90,414,310,26]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":7,"text":"Embedding-based semantic matching.","textPreview":"Embedding-based semantic matching.","textChars":34,"textLines":1,"bbox":[90,454,312,54]}
+{"kind":"shape","id":"sh/obm58z25","slide":7,"bbox":[90,498,90,24]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":7,"name":"pill-t","text":"NLP","textPreview":"NLP","textChars":3,"textLines":1,"bbox":[90,499,90,22]}
+{"kind":"shape","id":"sh/65wjudg7","slide":7,"bbox":[448,390,360,144]}
+{"kind":"shape","id":"sh/zqtcj6to","slide":7,"bbox":[448,390,360,8]}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":7,"text":"Scikit-Learn","textPreview":"Scikit-Learn","textChars":12,"textLines":1,"bbox":[466,414,310,26]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":7,"text":"Cosine similarity and supporting ML utilities.","textPreview":"Cosine similarity and supporting ML utilities.","textChars":46,"textLines":1,"bbox":[466,454,312,54]}
+{"kind":"shape","id":"sh/6xkf6dcb","slide":7,"bbox":[466,498,90,24]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":7,"name":"pill-t","text":"ML","textPreview":"ML","textChars":2,"textLines":1,"bbox":[466,499,90,22]}
+{"kind":"shape","id":"sh/orytsvu9","slide":7,"bbox":[824,390,360,144]}
+{"kind":"shape","id":"sh/hcrmhk3q","slide":7,"bbox":[824,390,360,8]}
+{"kind":"textbox","id":"sh/tovahoza","slide":7,"text":"Streamlit + Plotly","textPreview":"Streamlit + Plotly","textChars":18,"textLines":1,"bbox":[842,414,310,26]}
+{"kind":"textbox","id":"sh/032lszqt","slide":7,"text":"Interactive dashboard and visual analytics.","textPreview":"Interactive dashboard and visual analytics.","textChars":43,"textLines":1,"bbox":[842,454,312,54]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":7,"bbox":[842,498,90,24]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":7,"name":"pill-t","text":"UI","textPreview":"UI","textChars":2,"textLines":1,"bbox":[842,499,90,22]}
+{"kind":"notes","id":"nt/fqwl5k","slide":7,"text":"Walk through the stack from application code to NLP and dashboarding.\nMention that the stack is intentionally familiar and production-friendly for a hackathon audience.\nSuggested visual: a 2x3 grid of technology tiles with color-coded accents."}
+{"kind":"slide","id":"sl/2asqe8","slide":8,"title":"08 | Engine","textShapes":18}
+{"kind":"shape","id":"sh/2p8nqxs7","slide":8,"bbox":[72,28,180,6]}
+{"kind":"shape","id":"sh/9gr2p8nq","slide":8,"name":"h8","bbox":[72,42,240,30]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":8,"name":"h8-t","text":"08 | Engine","textPreview":"08 | Engine","textChars":11,"textLines":1,"bbox":[72,43,240,28]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":8,"name":"t8","text":"Semantic Matching Engine","textPreview":"Semantic Matching Engine","textChars":24,"textLines":1,"bbox":[72,90,900,60]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":8,"name":"s8","text":"The semantic engine compares meaning, not just shared words.","textPreview":"The semantic engine compares meaning, not just shared words.","textChars":60,"textLines":1,"bbox":[72,152,1000,34]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":8,"text":"AI Recruitment System | Data & AI Hackathon","textPreview":"AI Recruitment System | Data & AI Hackathon","textChars":43,"textLines":1,"bbox":[72,680,400,18]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1160,676,48,20]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":8,"name":"sem-left-bg","bbox":[72,210,430,344]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":8,"name":"sem-left-a","bbox":[72,210,8,344]}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":8,"name":"sem-left-title","text":"How it works","textPreview":"How it works","textChars":12,"textLines":1,"bbox":[94,228,386,26]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":8,"name":"sem-left-body","text":"The job description and each candidate profile are converted into dense embeddings.\nBatch encoding keeps the system fast even for large candidate pools.\nCosine similarity measures how closely the candidate story aligns with the role.\nThe engine can fall back to a lightweight similarity path if a model is unavailable.","textPreview":"The job description and each candidate profile are converted into dense embeddings. | Batch encoding keeps the system fast even for large...","textChars":318,"textLines":4,"bbox":[94,264,386,274]}
+{"kind":"shape","id":"sh/m94fu18j","slide":8,"bbox":[548,210,660,344]}
+{"kind":"shape","id":"sh/fu18jqh0","slide":8,"bbox":[574,240,210,74]}
+{"kind":"textbox","id":"sh/83itgfml","slide":8,"text":"Job description","textPreview":"Job description","textChars":15,"textLines":1,"bbox":[590,254,176,20]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":8,"text":"docx text","textPreview":"docx text","textChars":9,"textLines":1,"bbox":[590,278,176,18]}
+{"kind":"shape","id":"sh/qxs72x4n","slide":8,"bbox":[574,348,210,74]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":8,"text":"Candidate resume","textPreview":"Candidate resume","textChars":16,"textLines":1,"bbox":[590,362,176,20]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":8,"text":"profile + career history","textPreview":"profile + career history","textChars":24,"textLines":1,"bbox":[590,386,176,18]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":8,"text":"Embedding model","textPreview":"Embedding model","textChars":15,"textLines":1,"bbox":[822,328,120,26]}
+{"kind":"shape","id":"sh/xczed8v6","slide":8,"bbox":[790,366,170,66]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":8,"text":"Sentence Transformers","textPreview":"Sentence Transformers","textChars":21,"textLines":1,"bbox":[804,383,142,24]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":8,"text":"Cosine similarity","textPreview":"Cosine similarity","textChars":17,"textLines":1,"bbox":[998,328,160,24]}
+{"kind":"shape","id":"sh/qpg3ex0n","slide":8,"bbox":[968,366,210,66]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":8,"text":"Semantic relevance score","textPreview":"Semantic relevance score","textChars":24,"textLines":1,"bbox":[980,378,186,22]}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":8,"text":"higher means stronger match","textPreview":"higher means stronger match","textChars":27,"textLines":1,"bbox":[980,400,186,16]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":8,"text":"Batch scoring","textPreview":"Batch scoring","textChars":13,"textLines":1,"bbox":[818,468,174,24]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":8,"text":"Candidate chunks are scored together to keep the pipeline practical at scale.","textPreview":"Candidate chunks are scored together to keep the pipeline practical at scale.","textChars":77,"textLines":1,"bbox":[780,500,250,32]}
+{"kind":"notes","id":"nt/2asqe8","slide":8,"text":"Explain that semantic matching is the first major quality filter because it captures meaning rather than just exact tokens.\nMention the batch encoding approach and the fallback path as production reliability choices.\nSuggested visual: two inputs flowing into an embedding model and a similarity score gauge."}
+{"kind":"slide","id":"sl/xa6oz9","slide":9,"title":"09 | Ranking","textShapes":21}
+{"kind":"shape","id":"sh/hgn29gr2","slide":9,"bbox":[72,28,180,6]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":9,"name":"h9","bbox":[72,42,240,30]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":9,"name":"h9-t","text":"09 | Ranking","textPreview":"09 | Ranking","textChars":12,"textLines":1,"bbox":[72,43,240,28]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":9,"name":"t9","text":"Candidate Ranking Engine","textPreview":"Candidate Ranking Engine","textChars":24,"textLines":1,"bbox":[72,90,900,60]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":9,"name":"s9","text":"The final score is a weighted blend of multiple signals, making the shortlist more balanced and defensible.","textPreview":"The final score is a weighted blend of multiple signals, making the shortlist more balanced and defensible.","textChars":107,"textLines":1,"bbox":[72,152,1000,34]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":9,"text":"AI Recruitment System | Data & AI Hackathon","textPreview":"AI Recruitment System | Data & AI Hackathon","textChars":43,"textLines":1,"bbox":[72,680,400,18]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1160,676,48,20]}
+{"kind":"shape","id":"sh/s72x4nap","slide":9,"name":"rank-left-bg","bbox":[72,210,470,344]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":9,"name":"rank-left-a","bbox":[72,210,8,344]}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":9,"name":"rank-left-title","text":"Scoring logic","textPreview":"Scoring logic","textChars":13,"textLines":1,"bbox":[94,228,426,26]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":9,"name":"rank-left-body","text":"Semantic score measures the resume-to-job description fit.\nSkill, experience, behavior, product fit, and title relevance add recruiter context.\nThe weighted final score determines the deterministic rank order.\nExplainability sits beside the score, so every rank can be justified in plain language.","textPreview":"Semantic score measures the resume-to-job description fit. | Skill, experience, behavior, product fit, and title relevance add recruiter ...","textChars":297,"textLines":4,"bbox":[94,264,426,274]}
+{"kind":"shape","id":"sh/zupwb2hw","slide":9,"bbox":[568,210,640,344]}
+{"kind":"shape","id":"sh/a9w3m94f","slide":9,"name":"rank-pill","bbox":[590,232,118,28]}
+{"kind":"textbox","id":"sh/hcrmhk3q","slide":9,"name":"rank-pill-t","text":"Final score","textPreview":"Final score","textChars":11,"textLines":1,"bbox":[590,233,118,26]}
+{"kind":"textbox","id":"sh/orytsvu9","slide":9,"text":"0.25 semantic + 0.25 skill + 0.10 experience + 0.10 behavior + 0.10 product fit + 0.20 title relevance","textPreview":"0.25 semantic + 0.25 skill + 0.10 experience + 0.10 behavior + 0.10 product fit + 0.20 title relevance","textChars":102,"textLines":1,"bbox":[590,274,580,112]}
+{"kind":"shape","id":"sh/z61032ls","slide":9,"name":"rc0","bbox":[590,406,132,26]}
+{"kind":"textbox","id":"sh/al87ed8b","slide":9,"name":"rc0-t","text":"Semantic","textPreview":"Semantic","textChars":8,"textLines":1,"bbox":[590,407,132,24]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":9,"text":"primary signal","textPreview":"primary signal","textChars":14,"textLines":1,"bbox":[736,406,180,26]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":9,"name":"rc1","bbox":[840,406,132,26]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":9,"name":"rc1-t","text":"Skill","textPreview":"Skill","textChars":5,"textLines":1,"bbox":[840,407,132,24]}
+{"kind":"textbox","id":"sh/d0z61032","slide":9,"text":"primary signal","textPreview":"primary signal","textChars":14,"textLines":1,"bbox":[986,406,180,26]}
+{"kind":"shape","id":"sh/29gr2p8n","slide":9,"name":"rc2","bbox":[590,460,132,26]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":9,"name":"rc2-t","text":"Experience","textPreview":"Experience","textChars":10,"textLines":1,"bbox":[590,461,132,24]}
+{"kind":"textbox","id":"sh/knih4byh","slide":9,"text":"primary signal","textPreview":"primary signal","textChars":14,"textLines":1,"bbox":[736,460,180,26]}
+{"kind":"shape","id":"sh/d8bat47y","slide":9,"name":"rc3","bbox":[840,460,132,26]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":9,"name":"rc3-t","text":"Behavior","textPreview":"Behavior","textChars":8,"textLines":1,"bbox":[840,461,132,24]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":9,"text":"supporting signal","textPreview":"supporting signal","textChars":17,"textLines":1,"bbox":[986,460,180,26]}
+{"kind":"shape","id":"sh/kre1w7mp","slide":9,"name":"rc4","bbox":[590,514,132,26]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":9,"name":"rc4-t","text":"Product fit","textPreview":"Product fit","textChars":11,"textLines":1,"bbox":[590,515,132,24]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":9,"text":"supporting signal","textPreview":"supporting signal","textChars":17,"textLines":1,"bbox":[736,514,180,26]}
+{"kind":"shape","id":"sh/a1gvy90j","slide":9,"name":"rc5","bbox":[840,514,132,26]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":9,"name":"rc5-t","text":"Title relevance","textPreview":"Title relevance","textChars":15,"textLines":1,"bbox":[840,515,132,24]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":9,"text":"supporting signal","textPreview":"supporting signal","textChars":17,"textLines":1,"bbox":[986,514,180,26]}
+{"kind":"notes","id":"nt/xa6oz9","slide":9,"text":"Explain the weighted blend and why it is better than a single opaque score.\nPoint out that the ranking is deterministic and stable, which is important for trust and repeatability.\nSuggested visual: a formula card with labeled score chips and a callout that the final rank is easy to audit."}
+{"kind":"slide","id":"sl/7ilrgu","slide":10,"title":"10 | Dashboard","textShapes":33}
+{"kind":"shape","id":"sh/w7mp0bi9","slide":10,"bbox":[72,28,180,6]}
+{"kind":"shape","id":"sh/7mp0bi9s","slide":10,"name":"h10","bbox":[72,42,240,30]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":10,"name":"h10-t","text":"10 | Dashboard","textPreview":"10 | Dashboard","textChars":14,"textLines":1,"bbox":[72,43,240,28]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":10,"name":"t10","text":"Streamlit Dashboard","textPreview":"Streamlit Dashboard","textChars":19,"textLines":1,"bbox":[72,90,900,60]}
+{"kind":"textbox","id":"sh/wval87ed","slide":10,"name":"s10","text":"The dashboard makes the model useful for recruiters by turning scores into an interactive workflow.","textPreview":"The dashboard makes the model useful for recruiters by turning scores into an interactive workflow.","textChars":99,"textLines":1,"bbox":[72,152,1000,34]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":10,"text":"AI Recruitment System | Data & AI Hackathon","textPreview":"AI Recruitment System | Data & AI Hackathon","textChars":43,"textLines":1,"bbox":[72,680,400,18]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1160,676,48,20]}
+{"kind":"shape","id":"sh/lc7u54zi","slide":10,"bbox":[72,212,1136,360]}
+{"kind":"shape","id":"sh/wra5gbq1","slide":10,"bbox":[72,212,1136,54]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":10,"text":"Candidate Ranking Dashboard","textPreview":"Candidate Ranking Dashboard","textChars":27,"textLines":1,"bbox":[92,226,260,24]}
+{"kind":"shape","id":"sh/nap4r65w","slide":10,"name":"db-export","bbox":[1038,225,120,28]}
+{"kind":"textbox","id":"sh/cvixczed","slide":10,"name":"db-export-t","text":"Export CSV","textPreview":"Export CSV","textChars":10,"textLines":1,"bbox":[1038,226,120,26]}
+{"kind":"shape","id":"sh/5gbq1ory","slide":10,"bbox":[72,266,230,306]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":10,"text":"Filters","textPreview":"Filters","textChars":7,"textLines":1,"bbox":[90,286,180,20]}
+{"kind":"shape","id":"sh/nyd0z610","slide":10,"bbox":[90,324,194,30]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":10,"text":"Title","textPreview":"Title","textChars":5,"textLines":1,"bbox":[102,330,170,18]}
+{"kind":"shape","id":"sh/54zidony","slide":10,"bbox":[90,368,194,30]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":10,"text":"Experience","textPreview":"Experience","textChars":10,"textLines":1,"bbox":[102,374,170,18]}
+{"kind":"shape","id":"sh/judg7ads","slide":10,"bbox":[90,412,194,30]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":10,"text":"Location","textPreview":"Location","textChars":8,"textLines":1,"bbox":[102,418,170,18]}
+{"kind":"shape","id":"sh/qxs72x4n","slide":10,"bbox":[90,456,194,30]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":10,"text":"Work mode","textPreview":"Work mode","textChars":9,"textLines":1,"bbox":[102,462,170,18]}
+{"kind":"shape","id":"sh/83itgfml","slide":10,"bbox":[90,500,194,30]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":10,"text":"Open to work","textPreview":"Open to work","textChars":12,"textLines":1,"bbox":[102,506,170,18]}
+{"kind":"shape","id":"sh/m94fu18j","slide":10,"bbox":[302,266,906,306]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":10,"text":"Top ranked candidates","textPreview":"Top ranked candidates","textChars":21,"textLines":1,"bbox":[324,286,260,20]}
+{"kind":"shape","id":"sh/4fu18jqh","slide":10,"bbox":[322,320,860,34]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":10,"text":"CAND_00001","textPreview":"CAND_00001","textChars":10,"textLines":1,"bbox":[338,329,180,16]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":10,"text":"Data Scientist","textPreview":"Data Scientist","textChars":14,"textLines":1,"bbox":[506,329,200,16]}
+{"kind":"shape","id":"sh/wra5gbq1","slide":10,"name":"db0","bbox":[1038,325,80,22]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":10,"name":"db0-t","text":"96%","textPreview":"96%","textChars":3,"textLines":1,"bbox":[1038,326,80,20]}
+{"kind":"shape","id":"sh/eloj2t83","slide":10,"bbox":[322,364,860,34]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":10,"text":"CAND_00002","textPreview":"CAND_00002","textChars":10,"textLines":1,"bbox":[338,373,180,16]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":10,"text":"ML Engineer","textPreview":"ML Engineer","textChars":11,"textLines":1,"bbox":[506,373,200,16]}
+{"kind":"shape","id":"sh/l0rqd4vm","slide":10,"name":"db1","bbox":[1038,369,80,22]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":10,"name":"db1-t","text":"93%","textPreview":"93%","textChars":3,"textLines":1,"bbox":[1038,370,80,20]}
+{"kind":"shape","id":"sh/7u54zido","slide":10,"bbox":[322,408,860,34]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":10,"text":"CAND_00003","textPreview":"CAND_00003","textChars":10,"textLines":1,"bbox":[338,417,180,16]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":10,"text":"Search Engineer","textPreview":"Search Engineer","textChars":15,"textLines":1,"bbox":[506,417,200,16]}
+{"kind":"shape","id":"sh/hk3q5o7q","slide":10,"name":"db2","bbox":[1038,413,80,22]}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":10,"name":"db2-t","text":"90%","textPreview":"90%","textChars":3,"textLines":1,"bbox":[1038,414,80,20]}
+{"kind":"shape","id":"sh/zed8v6ps","slide":10,"bbox":[322,452,860,34]}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":10,"text":"CAND_00004","textPreview":"CAND_00004","textChars":10,"textLines":1,"bbox":[338,461,180,16]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":10,"text":"Backend Engineer","textPreview":"Backend Engineer","textChars":16,"textLines":1,"bbox":[506,461,200,16]}
+{"kind":"shape","id":"sh/obm58z25","slide":10,"name":"db3","bbox":[1038,457,80,22]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":10,"name":"db3-t","text":"87%","textPreview":"87%","textChars":3,"textLines":1,"bbox":[1038,458,80,20]}
+{"kind":"shape","id":"sh/65wjudg7","slide":10,"bbox":[322,496,860,34]}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":10,"text":"CAND_00005","textPreview":"CAND_00005","textChars":10,"textLines":1,"bbox":[338,505,180,16]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":10,"text":"NLP Engineer","textPreview":"NLP Engineer","textChars":12,"textLines":1,"bbox":[506,505,200,16]}
+{"kind":"shape","id":"sh/ixczed8v","slide":10,"name":"db4","bbox":[1038,501,80,22]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":10,"name":"db4-t","text":"84%","textPreview":"84%","textChars":3,"textLines":1,"bbox":[1038,502,80,20]}
+{"kind":"shape","id":"sh/032lszqt","slide":10,"bbox":[322,540,860,34]}
+{"kind":"textbox","id":"sh/tovahoza","slide":10,"text":"CAND_00006","textPreview":"CAND_00006","textChars":10,"textLines":1,"bbox":[338,549,180,16]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":10,"text":"Analyst","textPreview":"Analyst","textChars":7,"textLines":1,"bbox":[506,549,200,16]}
+{"kind":"shape","id":"sh/bulwval8","slide":10,"name":"db5","bbox":[1038,545,80,22]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":10,"name":"db5-t","text":"81%","textPreview":"81%","textChars":3,"textLines":1,"bbox":[1038,546,80,20]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":10,"bbox":[322,566,860,52]}
+{"kind":"textbox","id":"sh/idonyd0z","slide":10,"text":"Explainability snapshot: why selected, what matched, and where the gaps are.","textPreview":"Explainability snapshot: why selected, what matched, and where the gaps are.","textChars":76,"textLines":1,"bbox":[340,581,820,20]}
+{"kind":"notes","id":"nt/7ilrgu","slide":10,"text":"Describe the dashboard as the human interface for the ranking engine.\nCall out the filters, ranked list, and explainability panel as the three most important UX elements.\nSuggested visual: a polished app mockup with sidebar filters, candidate rows, and a details panel."}
+{"kind":"slide","id":"sl/74bnzw","slide":11,"title":"11 | Impact","textShapes":14}
+{"kind":"shape","id":"sh/i5sneloj","slide":11,"bbox":[72,28,180,6]}
+{"kind":"shape","id":"sh/pwb2hwfy","slide":11,"name":"h11","bbox":[72,42,240,30]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":11,"name":"h11-t","text":"11 | Impact","textPreview":"11 | Impact","textChars":11,"textLines":1,"bbox":[72,43,240,28]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":11,"name":"t11","text":"Results & Benefits","textPreview":"Results & Benefits","textChars":18,"textLines":1,"bbox":[72,90,900,60]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":11,"name":"s11","text":"The system converts a noisy screening problem into a faster and more transparent workflow.","textPreview":"The system converts a noisy screening problem into a faster and more transparent workflow.","textChars":90,"textLines":1,"bbox":[72,152,1000,34]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":11,"text":"AI Recruitment System | Data & AI Hackathon","textPreview":"AI Recruitment System | Data & AI Hackathon","textChars":43,"textLines":1,"bbox":[72,680,400,18]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1160,676,48,20]}
+{"kind":"shape","id":"sh/72x4nap4","slide":11,"name":"b0-bg","bbox":[72,214,548,148]}
+{"kind":"shape","id":"sh/ih4byhgn","slide":11,"name":"b0-a","bbox":[72,214,8,148]}
+{"kind":"textbox","id":"sh/032lszqt","slide":11,"name":"b0-title","text":"Faster shortlisting","textPreview":"Faster shortlisting","textChars":19,"textLines":1,"bbox":[94,232,504,26]}
+{"kind":"textbox","id":"sh/tovahoza","slide":11,"name":"b0-body","text":"Batch scoring and automated ranking reduce the time spent on first-pass resume review.","textPreview":"Batch scoring and automated ranking reduce the time spent on first-pass resume review.","textChars":86,"textLines":1,"bbox":[94,268,504,78]}
+{"kind":"shape","id":"sh/ixczed8v","slide":11,"name":"b1-bg","bbox":[652,214,548,148]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":11,"name":"b1-a","bbox":[652,214,8,148]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":11,"name":"b1-title","text":"Better matching","textPreview":"Better matching","textChars":15,"textLines":1,"bbox":[674,232,504,26]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":11,"name":"b1-body","text":"Semantic understanding improves relevance compared with pure keyword screening.","textPreview":"Semantic understanding improves relevance compared with pure keyword screening.","textChars":79,"textLines":1,"bbox":[674,268,504,78]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":11,"name":"b2-bg","bbox":[72,384,548,148]}
+{"kind":"shape","id":"sh/bulwval8","slide":11,"name":"b2-a","bbox":[72,384,8,148]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":11,"name":"b2-title","text":"Clear rationale","textPreview":"Clear rationale","textChars":15,"textLines":1,"bbox":[94,402,504,26]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":11,"name":"b2-body","text":"Explainability makes each recommendation easy to review, challenge, and defend.","textPreview":"Explainability makes each recommendation easy to review, challenge, and defend.","textChars":79,"textLines":1,"bbox":[94,438,504,78]}
+{"kind":"shape","id":"sh/xobm58z2","slide":11,"name":"b3-bg","bbox":[652,384,548,148]}
+{"kind":"shape","id":"sh/83itgfml","slide":11,"name":"b3-a","bbox":[652,384,8,148]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":11,"name":"b3-title","text":"Easy handoff","textPreview":"Easy handoff","textChars":12,"textLines":1,"bbox":[674,402,504,26]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":11,"name":"b3-body","text":"submission.csv and dashboard views make the output immediately usable by other teams.","textPreview":"submission.csv and dashboard views make the output immediately usable by other teams.","textChars":85,"textLines":1,"bbox":[674,438,504,78]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":11,"text":"Overall benefit: a hiring workflow that is more scalable, more consistent, and easier to explain to stakeholders.","textPreview":"Overall benefit: a hiring workflow that is more scalable, more consistent, and easier to explain to stakeholders.","textChars":113,"textLines":1,"bbox":[72,596,1136,38]}
+{"kind":"notes","id":"nt/74bnzw","slide":11,"text":"Keep the benefit story practical: speed, relevance, trust, and handoff.\nAvoid making hard performance claims unless measured; focus on business impact and demo value.\nSuggested visual: four benefit cards plus a short bottom-line conclusion strip."}
+{"kind":"slide","id":"sl/aj02v8","slide":12,"title":"12 | Future","textShapes":17}
+{"kind":"shape","id":"sh/r2p8nqxs","slide":12,"bbox":[72,28,180,6]}
+{"kind":"shape","id":"sh/kjm1cfa9","slide":12,"name":"h12","bbox":[72,42,240,30]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":12,"name":"h12-t","text":"12 | Future","textPreview":"12 | Future","textChars":11,"textLines":1,"bbox":[72,43,240,28]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":12,"name":"t12","text":"Future Scope & Conclusion","textPreview":"Future Scope & Conclusion","textChars":25,"textLines":1,"bbox":[72,90,900,60]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":12,"name":"s12","text":"The core pipeline is ready for the hackathon, and it can grow into a stronger hiring intelligence platform.","textPreview":"The core pipeline is ready for the hackathon, and it can grow into a stronger hiring intelligence platform.","textChars":107,"textLines":1,"bbox":[72,152,1000,34]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":12,"text":"AI Recruitment System | Data & AI Hackathon","textPreview":"AI Recruitment System | Data & AI Hackathon","textChars":43,"textLines":1,"bbox":[72,680,400,18]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1160,676,48,20]}
+{"kind":"shape","id":"sh/2t83itgf","slide":12,"bbox":[72,214,520,112]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":12,"name":"fut0","bbox":[90,232,90,28]}
+{"kind":"textbox","id":"sh/bulwval8","slide":12,"name":"fut0-t","text":"Next","textPreview":"Next","textChars":4,"textLines":1,"bbox":[90,233,90,26]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":12,"text":"Learn from recruiter feedback","textPreview":"Learn from recruiter feedback","textChars":29,"textLines":1,"bbox":[90,270,480,22]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":12,"text":"Use accepted/rejected outcomes to tune the scoring weights over time.","textPreview":"Use accepted/rejected outcomes to tune the scoring weights over time.","textChars":69,"textLines":1,"bbox":[90,298,480,16]}
+{"kind":"shape","id":"sh/0fepkzup","slide":12,"bbox":[72,342,520,112]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":12,"name":"fut1","bbox":[90,360,90,28]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":12,"name":"fut1-t","text":"Scale","textPreview":"Scale","textChars":5,"textLines":1,"bbox":[90,361,90,26]}
+{"kind":"textbox","id":"sh/tovahoza","slide":12,"text":"Extend to multiple roles","textPreview":"Extend to multiple roles","textChars":24,"textLines":1,"bbox":[90,398,480,22]}
+{"kind":"textbox","id":"sh/032lszqt","slide":12,"text":"Adapt the same pipeline to different job families and job descriptions.","textPreview":"Adapt the same pipeline to different job families and job descriptions.","textChars":71,"textLines":1,"bbox":[90,426,480,16]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":12,"bbox":[72,470,520,112]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":12,"name":"fut2","bbox":[90,488,90,28]}
+{"kind":"textbox","id":"sh/ulwval87","slide":12,"name":"fut2-t","text":"Improve","textPreview":"Improve","textChars":7,"textLines":1,"bbox":[90,489,90,26]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":12,"text":"Add outcome prediction","textPreview":"Add outcome prediction","textChars":22,"textLines":1,"bbox":[90,526,480,22]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":12,"text":"Layer in interview and offer signals to anticipate downstream success.","textPreview":"Layer in interview and offer signals to anticipate downstream success.","textChars":70,"textLines":1,"bbox":[90,554,480,16]}
+{"kind":"shape","id":"sh/1cfa9w3m","slide":12,"name":"conclusion-bg","bbox":[632,214,576,330]}
+{"kind":"shape","id":"sh/uxc3ylc7","slide":12,"name":"conclusion-a","bbox":[632,214,8,330]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":12,"name":"conclusion-title","text":"Conclusion","textPreview":"Conclusion","textChars":10,"textLines":1,"bbox":[654,232,532,26]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":12,"name":"conclusion-body","text":"The system combines semantic matching, modular scoring, and explainability into one recruiter-friendly workflow.\nIt is built for hackathon delivery but designed with production thinking: batching, modularity, and clear outputs.\nThe result is a shortlist that is easier to trust, easier to present, and easier to iterate on.","textPreview":"The system combines semantic matching, modular scoring, and explainability into one recruiter-friendly workflow. | It is built for hackat...","textChars":323,"textLines":3,"bbox":[654,268,532,260]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":12,"text":"Thank you. This is an end-to-end recruitment assistant that turns candidate data into ranked, explainable decisions.","textPreview":"Thank you. This is an end-to-end recruitment assistant that turns candidate data into ranked, explainable decisions.","textChars":116,"textLines":1,"bbox":[632,562,576,72]}
+{"kind":"notes","id":"nt/aj02v8","slide":12,"text":"Close by summarizing the product value: better matching, better trust, and better workflow fit.\nMention the next natural step is a feedback loop from recruiters to continuously improve the model.\nSuggested visual: a short roadmap on one side and a strong closing statement on the other."}

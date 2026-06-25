@@ -1,0 +1,18 @@
+candidate_id,rank,final_score,semantic_score,skill_score,behavior_score,experience_score,product_fit_score,title_score,reasoning
+CAND_0000001,1,0.4369,0.5476,0.0789,0.5028,1.0000,0.1000,0.6000,"Why selected:
+- Matching skills: milvus, llm, and llms are directly relevant to the role.
+- Relevant experience: 6.9 years is strongly aligned with the expected experience band.
+- Matching career history: the current title 'Backend Engineer' is a close match for the target role.
+- Semantic relevance: there is moderate overlap between the candidate story and the role.
+
+Why not selected:
+- Missing skills: no strong evidence for retrieval, information retrieval, ranking, recommendation, and recommendation systems in the current profile."
+CAND_0000002,2,0.0527,0.6013,0.0000,0.4243,0.6000,0.0000,-1.0000,"Why selected:
+- Relevant experience: 12.5 years is broadly relevant, though not a perfect match.
+- Matching career history: prior roles such as Operations Manager and Marketing Manager align with the job theme.
+- Semantic relevance: the profile language and job description show strong topical overlap.
+
+Why not selected:
+- Missing skills: no strong evidence for retrieval, information retrieval, ranking, recommendation, and recommendation systems in the current profile.
+- Weak experience: the candidate appears either early in career, outside the preferred range, or not deeply aligned with the role scope.
+- Low engagement: profile completeness looks light and GitHub activity is absent or uninformative."
