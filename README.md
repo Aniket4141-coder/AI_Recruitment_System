@@ -144,15 +144,23 @@ AI_Recruitment_System/
 `-- submission.csv         # Generated ranking output
 ```
 
-## Screenshots
+## Project Screenshots
 
-Project visuals are included below. If you want to showcase the live dashboard, replace or extend these images with fresh Streamlit captures.
+### Dashboard Overview
 
-![Title Slide Preview](./preview/slide-01.png)
+![Dashboard](./preview/dashboard.png)
 
-![Dashboard / Results Preview](./preview/slide-10.png)
+### Candidate Ranking Results
 
-![Presentation Montage](./preview/deck-montage.webp)
+![Ranking Results](./preview/ranking_results.png)
+
+### Score Distribution
+
+![Score Distribution](./preview/score_distribution.png)
+
+### Candidate Explainability
+
+![Candidate Analysis](./preview/candidate_analysis.png)
 
 ## Future Enhancements
 
